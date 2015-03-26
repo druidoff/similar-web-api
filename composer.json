@@ -1,5 +1,5 @@
 {
-    "name": "merlinoff/SimilarWebApi",
+    "name": "merlinoff/similar-web-api",
     "description": "API for SimilarWeb is a project created by SimilarGroup company. It collects and provides access to various website analytics. This is a PHP library implementing easy access to their API.",
     "require": {
         "php-curl-class/php-curl-class": "dev-master"

@@ -12,10 +12,10 @@
 
 ## Installation:
 
-This library is available on [Packagist](https://github.com/druidoff/SimilarWebApi) and uses `merlinoff/SimilarWebApi` alias. If you use [Composer](https://getcomposer.org/) (and if you don't I don't know what you're waiting for) you can `composer require` it:
+This library is available on [Packagist](https://github.com/druidoff/similar-web-api) and uses `merlinoff/SimilarWebApi` alias. If you use [Composer](https://getcomposer.org/) (and if you don't I don't know what you're waiting for) you can `composer require` it:
 
 ```
-composer require merlinoff/SimilarWebApi
+composer require merlinoff/similar-web-api
 ```
 
 Alternatively you can place it manually inside your `composer.json`:
@@ -23,7 +23,7 @@ Alternatively you can place it manually inside your `composer.json`:
 ```
 (...)
 "require": {
-    "merlinoff/SimilarWebApi": "dev-master"
+    "merlinoff/similar-web-api": "dev-master"
 }
 (...)
 ```
