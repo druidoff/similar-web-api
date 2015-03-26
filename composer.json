@@ -1,0 +1,15 @@
+{
+    "name": "merlinoff/SimilarWebApi",
+    "description": "API for SimilarWeb is a project created by SimilarGroup company. It collects and provides access to various website analytics. This is a PHP library implementing easy access to their API.",
+    "require": {
+        "php-curl-class/php-curl-class": "dev-master"
+    },
+    "license": "GNU General Public License",
+    "authors": [
+        {
+            "name": "Yurii Tonkoshkur",
+            "email": "tonkoskhur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
