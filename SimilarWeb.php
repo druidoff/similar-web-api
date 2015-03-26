@@ -6,7 +6,7 @@
  * Time: 11:14
  */
 
-namespace app\components;
+namespace merlinoff;
 
 
 use Curl\Curl;
