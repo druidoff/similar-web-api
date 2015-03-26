@@ -11,5 +11,8 @@
             "email": "tonkoskhur@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+      "classmap": ["SimilarWeb.php"]
+    }
 }
